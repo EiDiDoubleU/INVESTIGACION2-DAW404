@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "1",
+        "marca": "Toyota",
+        "modelo" : "GR Yaris",
+        "año" : "2020",
+        "precio" : "35.500$",
+        "color" : "Negro"
+    },
+    {
+        "id" : "2",
+        "marca": "Mazda",
+        "modelo" : "MX-5 RF",
+        "año" : "2021",
+        "precio" : "37.750$",
+        "color" : "Azul Marino" 
+    },
+    {
+        "id" : "3",
+        "Marca": "Volkswagen",
+        "Modelo" : "Golf GTI",
+        "Año" : "2020",
+        "Precio" : "43.310$",
+        "Color" : "Rojo"
+    },
+    {
+        "id" : "4",
+        "Marca": "Audi",
+        "Modelo" : "RS6 Avant",
+        "Año" : "2021",
+        "Precio" : "147.000$",
+        "Color" : "Negro Mate"
+    },
+    {
+        "id" : "5",
+        "Marca": "Porsche",
+        "Modelo" : "Panamera",
+        "Año" : "2020",
+        "Precio" : "110.000$",
+        "Color" : "Blanco Hueso"
+    }
+]
